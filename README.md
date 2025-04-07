@@ -1,6 +1,6 @@
 # MITRE-ATT-$-CK 
 <https://attack.mitre.org/>
-## Reconnaissance
+## [Reconnaissance](https://attack.mitre.org/tactics/TA0043/) [Текст ссылки](https://www.example.com)
 10 techniques
 
 ## Resource Development	
